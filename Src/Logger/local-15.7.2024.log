@@ -1,0 +1,6 @@
+2024-07-15 17:37:29 - Level: info - Message: Testing Info logs - Context: []
+2024-07-15 17:37:29 - Level: error - Message: Testing Error logs - Context: []
+2024-07-15 17:37:29 - Level: alert - Message: Testing Alert logs - Context: []
+2024-07-15 17:54:30 - Level: info - Message: new bug report created - Context: {"id":2,"type":"video player"}
+2024-07-15 17:54:32 - Level: info - Message: bug report deleted - Context: {"id":2,"type":"video player"}
+2024-07-15 17:54:36 - Level: info - Message: bug report updated - Context: {"id":1,"type":"video player"}

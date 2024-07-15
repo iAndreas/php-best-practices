@@ -1,0 +1,8 @@
+2024-07-12 16:11:00 - Level: info - Message: new bug report created - Context: {"id":4,"type":"video player"}
+2024-07-12 16:22:53 - Level: info - Message: new bug report created - Context: {"id":5,"type":"video player"}
+2024-07-12 16:23:00 - Level: info - Message: bug report deleted - Context: {"id":5,"type":"video player"}
+2024-07-12 16:25:02 - Level: info - Message: new bug report created - Context: {"id":6,"type":"video player"}
+2024-07-12 16:25:12 - Level: info - Message: bug report deleted - Context: {"id":6,"type":"video player"}
+2024-07-12 16:28:38 - Level: info - Message: new bug report created - Context: {"id":7,"type":"video player"}
+2024-07-12 16:28:46 - Level: info - Message: bug report updated - Context: {"id":7,"type":"video player"}
+2024-07-12 16:28:54 - Level: info - Message: bug report deleted - Context: {"id":7,"type":"video player"}
